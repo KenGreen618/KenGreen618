@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KenGreen618
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning the Responsive Web Design Course on freecodecamp.com
+- 👀 Please view my personal profile @ https://kengreen618.github.io/
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me find me on linkedin under Kentaro Green
+- 📫 Find me on linkedin under Kentaro Green
