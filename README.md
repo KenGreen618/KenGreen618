@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KenGreen618
 - 👀 Please view my personal profile (still work in progress) @ https://kengreen618.github.io/
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Find me on linkedin under Kentaro Green
+- 📫 Find me on linkedin under Ken Green
